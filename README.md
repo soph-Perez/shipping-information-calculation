@@ -3,7 +3,8 @@ Calculates total user cost based on whether or not they are buying oil or gas, h
 
 ## Requirements:
 Write a program that asks the user to enter an address and customer name as separate elements. It should then print the complete shipping address as shown below:<br>
-Sample run: (inputs in bold underline) <br>
+Sample run: (inputs in bold underline) 
+<br>
 Enter Civic Number: 701<br> 
 Enter Street Name: River Ave.<br>
 Enter City Name: Moncton<br> 
